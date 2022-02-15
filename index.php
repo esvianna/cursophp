@@ -1,4 +1,5 @@
 <?php
 
-	echo "Novo teste";
+	echo "Resolvido!!!";
+
 ?>

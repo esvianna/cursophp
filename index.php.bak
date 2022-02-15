@@ -1,4 +1,10 @@
 <?php
 
+<<<<<<< HEAD
+	echo "Novo teste";
+=======
 	echo "XPTO";
+
+	echo "teste";
+>>>>>>> b604da23db631f6e0939dcecdcd17595093526bd
 ?>
