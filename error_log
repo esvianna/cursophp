@@ -1,0 +1,4 @@
+[15-Feb-2022 17:11:53 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$salario' (T_VARIABLE) in /home2/confr395/cursophp.vtis.com.br/exemplo-variaveis3.php on line 6
+[15-Feb-2022 17:12:33 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$salario' (T_VARIABLE) in /home2/confr395/cursophp.vtis.com.br/exemplo-variaveis3.php on line 6
+[15-Feb-2022 17:12:45 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$salario' (T_VARIABLE) in /home2/confr395/cursophp.vtis.com.br/exemplo-variaveis3.php on line 6
+[16-Feb-2022 11:00:00 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home2/confr395/cursophp.vtis.com.br/exemplo5.php on line 36
